@@ -1,0 +1,15 @@
+C:\Users\massluv\Documents\git_education\c#\1\example001\example_helloUser\bin\Debug\net6.0\example_helloUser.exe
+C:\Users\massluv\Documents\git_education\c#\1\example001\example_helloUser\bin\Debug\net6.0\example_helloUser.deps.json
+C:\Users\massluv\Documents\git_education\c#\1\example001\example_helloUser\bin\Debug\net6.0\example_helloUser.runtimeconfig.json
+C:\Users\massluv\Documents\git_education\c#\1\example001\example_helloUser\bin\Debug\net6.0\example_helloUser.dll
+C:\Users\massluv\Documents\git_education\c#\1\example001\example_helloUser\bin\Debug\net6.0\example_helloUser.pdb
+C:\Users\massluv\Documents\git_education\c#\1\example001\example_helloUser\obj\Debug\net6.0\example_helloUser.csproj.AssemblyReference.cache
+C:\Users\massluv\Documents\git_education\c#\1\example001\example_helloUser\obj\Debug\net6.0\example_helloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\massluv\Documents\git_education\c#\1\example001\example_helloUser\obj\Debug\net6.0\example_helloUser.AssemblyInfoInputs.cache
+C:\Users\massluv\Documents\git_education\c#\1\example001\example_helloUser\obj\Debug\net6.0\example_helloUser.AssemblyInfo.cs
+C:\Users\massluv\Documents\git_education\c#\1\example001\example_helloUser\obj\Debug\net6.0\example_helloUser.csproj.CoreCompileInputs.cache
+C:\Users\massluv\Documents\git_education\c#\1\example001\example_helloUser\obj\Debug\net6.0\example_helloUser.dll
+C:\Users\massluv\Documents\git_education\c#\1\example001\example_helloUser\obj\Debug\net6.0\refint\example_helloUser.dll
+C:\Users\massluv\Documents\git_education\c#\1\example001\example_helloUser\obj\Debug\net6.0\example_helloUser.pdb
+C:\Users\massluv\Documents\git_education\c#\1\example001\example_helloUser\obj\Debug\net6.0\example_helloUser.genruntimeconfig.cache
+C:\Users\massluv\Documents\git_education\c#\1\example001\example_helloUser\obj\Debug\net6.0\ref\example_helloUser.dll
